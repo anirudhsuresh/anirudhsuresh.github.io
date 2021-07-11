@@ -25,7 +25,7 @@ Credit to @https://github.com/hashirshoaeb
 [![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
 
-[![Site preview](/public/social-image.png)](https://anirudhsuresh.github.io/)
+[![Site preview](/social-image.png)](https://anirudhsuresh.github.io/)
 
 ## Table of Contents
 
